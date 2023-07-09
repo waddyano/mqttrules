@@ -1,0 +1,3 @@
+zigbee2mqtt/button1 .action on cmnd/sonoff-s31-3/POWER toggle
+zigbee2mqtt/onoff1 .action on cmnd/tasmota-wyze-1/POWER on
+zigbee2mqtt/onoff1 .action off cmnd/tasmota-wyze-1/POWER off
